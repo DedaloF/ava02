@@ -1,4 +1,4 @@
-# 📚 Avaliação 02 – Gestão de Infraestrutura de Redes
+# 📚 Avaliação 02 – Programação Mobile
 
 ## 📌 Identificação
 - **Disciplina:** Gestão de Infraestrutura de Redes  
