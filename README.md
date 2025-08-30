@@ -1,7 +1,7 @@
 # 📚 Avaliação 02 – Programação Mobile
 
 ## 📌 Identificação
-- **Disciplina:** Progração Mobile
+- **Disciplina:** Programação Mobile
 - **Professor:** Airton Marinho  
 - **Alunos:**  
   - Romário Lima  
