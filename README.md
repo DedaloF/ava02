@@ -1,11 +1,12 @@
 # 📚 Avaliação 02 – Programação Mobile
 
 ## 📌 Identificação
-- **Disciplina:** Gestão de Infraestrutura de Redes  
+- **Disciplina:** Progração Mobile
 - **Professor:** Airton Marinho  
 - **Alunos:**  
   - Romário Lima  
-  - Dédalo Ferraz  
+  - Dédalo Ferraz
+  - Marcos Antonio 
 
 ---
 
